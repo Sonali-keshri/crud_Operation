@@ -1,0 +1,52 @@
+.add_Btn{
+  text-align: right;
+}
+button>svg{
+  font-size: 1.2rem;
+}
+.addlink{
+  text-decoration: none;
+  color: white;
+}
+.addlink:hover{
+  color: white;
+}
+.container{
+  overflow: auto;
+}
+a{
+  text-decoration: none;
+}
+.home{
+  color: black;
+}
+
+.profileImg{
+  width: 5rem;
+  height: 5rem;
+  border-radius: 100%;
+}
+.left_view h4{
+  font-size: 21px;
+}
+.left_view span{
+  font-weight:400;
+}
+.left_view p{
+  font-weight: 600;
+}
+.detailBtn{
+ text-align: right; 
+}
+/* .right_view h4{
+  font-size: 21px;
+} */
+.right_view span{
+  font-weight:400;
+}
+.right_view p{
+  font-weight: 600;
+}
+.button{
+  margin-left: .2rem;
+}
